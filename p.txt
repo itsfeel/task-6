@@ -1,0 +1,7 @@
+Invoice
+
+Customer: Kaustubh
+Product: protien
+Quantity: 2.0
+Unit Price: $3000.00
+Total Price: $6000.00
